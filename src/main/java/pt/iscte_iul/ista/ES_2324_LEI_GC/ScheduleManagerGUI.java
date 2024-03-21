@@ -23,7 +23,7 @@ public class ScheduleManagerGUI extends JFrame {
     private static final String[] COLUMN_HEADERS = {
             "Curso", "Unidade Curricular", "Turno", "Turma", "Inscritos no turno",
             "Dia da semana", "Hora início da aula", "Hora fim da aula", "Data da aula",
-            "Características da sala pedida para a aula", "Sala atribuída à aula", "Semana", "Semana - Semestre"
+            "Características da sala pedida para a aula", "Sala atribuída à aula", "Semana", "Semana-Semestre"
     };
     private JTable table;
     private JTextField searchField;
